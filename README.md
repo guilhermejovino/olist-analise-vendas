@@ -20,7 +20,7 @@ A Olist conecta pequenos comerciantes a grandes marketplaces no Brasil. Neste pr
 | # | Pergunta | Ferramenta | Status |
 |---|---|---|---|
 | 1 | Como evoluíram a receita e o número de pedidos mês a mês? | SQL | ⏳ |
-| 2 | Qual é o ticket médio por pedido? | SQL | ⏳ |
+| 2 | O ticket médio dos pedidos entregues é de R$ 137,04”. ✅
 | 3 | Quais são as 10 categorias que mais geram receita? | SQL | ⏳ |
 | 4 | Quais estados concentram mais clientes e mais receita? | SQL | ✅ |
 | 5 | Qual a porcentagem de pedidos entregues com atraso e o tempo médio de entrega? | SQL | ⏳ |
